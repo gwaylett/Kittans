@@ -4,3 +4,4 @@ Eevee
 Griz
 Ziggy
 Tucker
+Minimus Maximus
